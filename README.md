@@ -27,11 +27,9 @@ Run the face_recognizer.py script to perform real-time face recognition using th
 
 **python face_recognizer.py**
 
-# Features
-
-Dataset Generation: Capture multiple images of individuals' faces to create a diverse training dataset.
-Training: Utilize the LBPHFaceRecognizer algorithm to train a model on the dataset.
-Face Recognition: Perform real-time face recognition using the trained model and haarcascade_frontalface_default for face detection.
+# Note
+1. Change the path in each files according to your system path.
+2. Put all these files in same folder with haarcascade_frontalface_default.xml.
 
 
 
